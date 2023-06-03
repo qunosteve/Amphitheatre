@@ -2,7 +2,7 @@
 
 ## How to Contribute
 
-Come Join our Discord. We post "builder's bounties" for artists and developers to help incentivize the building of this Module.
+Come Join our Discord. To help incentivize developers and artists, we offer "bounties" to build out different aspects of the module.
 
 
 
