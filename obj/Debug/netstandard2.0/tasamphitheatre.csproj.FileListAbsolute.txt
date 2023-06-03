@@ -1,0 +1,10 @@
+G:\tasamphitheatre\bin\Debug\netstandard2.0\tasamphitheatre.deps.json
+G:\tasamphitheatre\bin\Debug\netstandard2.0\tasamphitheatre.dll
+G:\tasamphitheatre\bin\Debug\netstandard2.0\tasamphitheatre.pdb
+G:\tasamphitheatre\obj\Debug\netstandard2.0\tasamphitheatre.csproj.AssemblyReference.cache
+G:\tasamphitheatre\obj\Debug\netstandard2.0\tasamphitheatre.GeneratedMSBuildEditorConfig.editorconfig
+G:\tasamphitheatre\obj\Debug\netstandard2.0\tasamphitheatre.AssemblyInfoInputs.cache
+G:\tasamphitheatre\obj\Debug\netstandard2.0\tasamphitheatre.AssemblyInfo.cs
+G:\tasamphitheatre\obj\Debug\netstandard2.0\tasamphitheatre.csproj.CoreCompileInputs.cache
+G:\tasamphitheatre\obj\Debug\netstandard2.0\tasamphitheatre.dll
+G:\tasamphitheatre\obj\Debug\netstandard2.0\tasamphitheatre.pdb
