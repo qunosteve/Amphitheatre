@@ -16,5 +16,3 @@ In addition to the assets provided by the Ape Society core team, a select group 
 
 It's important to note that these tokens representing the apes and gear are not "in-game" items in the traditional sense. Instead, they represent the intellectual property of "The Ape Society" itself. In this context, they can be seen as digital assets with unique characteristics and value, much like Anduril (Aragorn's sword) from the Lord of the Rings. These tokens are separate from the game's internal economy and are protected by blockchain technology to ensure their authenticity and ownership.
 
-By integrating blockchain verification and tokenized ownership of apes and gear, the developers of the Amphitheatre module have created a system that allows for the authentication and authorized usage of the intellectual property associated with these virtual assets. This ensures that players can participate in competitive matches using legitimate and authorized IP, similar to how the IP of iconic items in fictional universes like Lord of the Rings is protected and regulated.
-
