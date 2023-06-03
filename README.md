@@ -6,7 +6,7 @@ Come Join our Discord. To help incentivize developers and artists, we offer "bou
 
 
 
-## Elucidation: Ape Society Intellectual Property vs In-Game Items 
+## Elucidation: Ape Society Intellectual Property & Assets vs In-Game Items 
 
 The ownership of "The Ape Society" assets and intellectual property consists of a distributed group of owners who collectively own a set of virtual apes with unique characteristics and attributes. These apes are part of a larger digital ecosystem where ownership and transactions are recorded on a blockchain, ensuring transparency and security. Through a DAO vote authenticated by the Cardano blockchain, the owners of The Ape Society have permitted the developers of the Amphitheatre, which consists of a custom module for the game Mount and Blade 2: Bannerlord, to utilize the Intellectual Property (IP) associated with these virtual apes for use in Mount and Blade 2: Bannerlord.
 
@@ -16,3 +16,6 @@ In addition to the assets provided by the Ape Society core team, a select group 
 
 It's important to note that these tokens representing the apes and gear are not "in-game" items in the traditional sense. Instead, they represent the intellectual property of "The Ape Society" itself. In this context, they can be seen as digital assets with unique characteristics and value, much like Anduril (Aragorn's sword) from the Lord of the Rings. These tokens are separate from the game's internal economy and are protected by blockchain technology to ensure their authenticity and ownership.
 
+The gear associated with the apes in "The Ape Society" is not bought or sold within the game or within any gaming platform. Instead, they exist as digital assets separate from the game's internal economy. These assets, represented by tokens, signify the ownership and intellectual property rights held by the members of the Ape Society. Since these tokens are not bought or sold within the game, they are not subject to the typical in-game transactions or economic systems. They operate on a different layer, utilizing blockchain technology to authenticate and validate ownership.
+
+By keeping the gear separate from in-game transactions, it ensures that the value and ownership of these assets are determined by the Ape Society community and the blockchain technology rather than by the game's mechanics or marketplace. This separation allows for greater control over the intellectual property associated with the apes and their gear, enabling their use in various contexts outside of the game, such as movies, merchandise, or even future standalone games.
