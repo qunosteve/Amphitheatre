@@ -1,6 +1,6 @@
 # The Ape Society Amphitheatre Module for Mount and Blade 2: Bannerlord
 
-"The Ape Society" is a distributed and decentralized group of owners who collectively own a set of virtual apes with unique characteristics and attributes. These apes are part of a larger digital ecosystem where ownership and transactions are recorded on a blockchain, ensuring transparency and security. The Ape Society has allowed the developers of the Amphitheatre, a custom module for the game Mount and Blade 2: Bannerlord, to utilize the Intellectual Property (IP) associated with these virtual apes.
+"The Ape Society" is owned by a distributed and decentralized group of owners who collectively own a set of virtual apes with unique characteristics and attributes. These apes are part of a larger digital ecosystem where ownership and transactions are recorded on a blockchain, ensuring transparency and security. The Ape Society has allowed the developers of the Amphitheatre, a custom module for the game Mount and Blade 2: Bannerlord, to utilize the Intellectual Property (IP) associated with these virtual apes.
 
 The module developed for the Amphitheatre serves a specific purpose of authenticating the IP of assets used in competitive matches. It leverages blockchain technology to verify and validate the ownership of apes and their associated gear. By tokenizing the ownership of apes and gear, each player is granted authorization to use the IP associated with a particular ape.
 
