@@ -4,6 +4,8 @@
 
 To help incentivize designers, artists, 3d modelers, and developers, we offer "bounties" to build out different aspects of the module. By completing bounties, developers can earn various Cardano native tokens that can be used in the Ape Society ecosystem. The communication and requirements for these bounties are coordinated via discord. Come Join our Discord @ https://discord.gg/pMZJH4nkhF
 
+To learn about our Bounty Structure, read this Gitbook page: https://theapesociety.gitbook.io/digest/the-ape-society-digest/community-projects/amphitheatre/bounty-structure
+
 ## To Do List
 Coming Soon
 
