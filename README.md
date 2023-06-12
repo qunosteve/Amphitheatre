@@ -2,8 +2,10 @@
 
 ## How to Contribute
 
-Come Join our Discord. To help incentivize developers and artists, we offer "bounties" to build out different aspects of the module.
+To help incentivize developers, we offer "bounties" to build out different aspects of the module. By completing bounties, developers can earn various Cardano native tokens that can be used in the Ape Society ecosystem. The communication and requirements for these bounties are coordinated via discord. Come Join our Discord @ https://discord.gg/pMZJH4nkhF
 
+## To Do List
+Coming Soon
 
 
 ## Elucidation: Ape Society Intellectual Property & Assets vs In-Game Items 
