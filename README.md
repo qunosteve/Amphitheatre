@@ -10,7 +10,7 @@ To learn about our Bounty Structure, read this Gitbook page: https://theapesocie
 Coming Soon
 
 
-## Elucidation: Ape Society Intellectual Property & Assets vs In-Game Items 
+## Elucidation: Ape Society Intellectual Property vs In-Game Items 
 
 The ownership of "The Ape Society" assets and intellectual property consists of a distributed group of owners who collectively own a set of virtual apes with unique characteristics and attributes. These apes are part of a larger digital ecosystem where ownership and transactions are recorded on a blockchain, ensuring transparency and security. Through a DAO vote authenticated by the Cardano blockchain, the owners of The Ape Society have permitted the developers of the Amphitheatre to utilize the Intellectual Property (IP) associated with these virtual apes for use in a custom module in Mount and Blade 2: Bannerlord.
 
