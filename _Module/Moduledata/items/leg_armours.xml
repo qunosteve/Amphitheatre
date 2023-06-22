@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+  <Item id="SlickLeg" name="TAS PROTO AMPHI GEAR Oilslick Boots" mesh="wrapped_shoes" culture="Culture.aserai" weight="0.06729711" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="4" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="FrostLeg" name="TAS PROTO AMPHI GEAR Frost Boots" mesh="wrapped_shoes" culture="Culture.aserai" weight="0.06729711" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="5" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+</Items>
