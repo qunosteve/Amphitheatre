@@ -2,11 +2,15 @@
 
 ## How to Contribute
 
-Come Join our Discord. To help incentivize developers and artists, we offer "bounties" to build out different aspects of the module.
+To help incentivize designers, artists, 3d modelers, and developers, we offer "bounties" to build out different aspects of the module. By completing bounties, developers can earn various Cardano native tokens that can be used in the Ape Society ecosystem. The communication and requirements for these bounties are coordinated via discord. Come Join our Discord @ https://discord.gg/pMZJH4nkhF
+
+To learn about our Bounty Structure, read this Gitbook page: https://theapesociety.gitbook.io/digest/the-ape-society-digest/community-projects/amphitheatre/bounty-structure
+
+## To Do List
+Coming Soon
 
 
-
-## Elucidation: Ape Society Intellectual Property & Assets vs In-Game Items 
+## Elucidation: Ape Society Intellectual Property vs In-Game Items 
 
 The ownership of "The Ape Society" assets and intellectual property consists of a distributed group of owners who collectively own a set of virtual apes with unique characteristics and attributes. These apes are part of a larger digital ecosystem where ownership and transactions are recorded on a blockchain, ensuring transparency and security. Through a DAO vote authenticated by the Cardano blockchain, the owners of The Ape Society have permitted the developers of the Amphitheatre to utilize the Intellectual Property (IP) associated with these virtual apes for use in a custom module in Mount and Blade 2: Bannerlord.
 
