@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+  <Item id="SlickBody" name="TAS PROTO AMPHI GEAR Oilslick Chestpiece" mesh="mail_with_tabbard_heraldic" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" using_tableau="true" weight="9.89492" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="44" leg_armor="11" arm_armor="11" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item id="FrostBody" name="TAS PROTO AMPHI GEAR Frost Chestpiece" mesh="mail_with_tabbard_heraldic" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" using_tableau="true" weight="9.89492" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="12" arm_armor="12" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+</Items>
