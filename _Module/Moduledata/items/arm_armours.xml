@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+  <Item id="SlickGloves" name="TAS PROTO AMPHI GEAR Oilslick Bracers" mesh="vlandia_leather_stripes_bracers" culture="Culture.empire" weight="0.1886044" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="6" modifier_group="leather" material_type="Leather" covers_hands="false" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="FrostGloves" name="TAS PROTO AMPHI GEAR Frost Bracers" mesh="vlandia_leather_stripes_bracers" culture="Culture.empire" weight="0.1886044" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="7" modifier_group="leather" material_type="Leather" covers_hands="false" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+</Items>
