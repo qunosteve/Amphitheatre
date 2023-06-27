@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+  <Item id="VikingHead" name="TAS PROTO AMPHI GEAR Viking Helmet" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="1.28961" difficulty="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="30" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="SlickHead" name="TAS PROTO AMPHI GEAR Oilslick Helmet" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="1.28961" difficulty="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="FrostHead" name="TAS PROTO AMPHI GEAR Frost Helmet" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="1.28961" difficulty="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="34" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+</Items>
