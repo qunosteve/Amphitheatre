@@ -1,10 +1,22 @@
 # The Ape Society Amphitheatre Module for Mount and Blade 2: Bannerlord
 
+## This Module will Encompass of 4 Primary Sections
+
+1) Custom Game Mode Logic (Queries the Blockchain)
+
+2) Conversion of Human Characters to Ape Society Characters
+
+3) Addition of Weapons and Armour Asssets based on Ape Society IP
+
+4) Availability of Custom Maps inspired by Ape Society Lore
+
 ## How to Contribute
 
 To help incentivize designers, artists, 3d modelers, and developers, we offer "bounties" to build out different aspects of the module. By completing bounties, developers can earn various Cardano native tokens that can be used in the Ape Society ecosystem. The communication and requirements for these bounties are coordinated via discord. Come Join our Discord @ https://discord.gg/pMZJH4nkhF
 
 To learn about our Bounty Structure, read this Gitbook page: https://theapesociety.gitbook.io/digest/the-ape-society-digest/community-projects/amphitheatre/bounty-structure
+
+
 
 ## To Do List
 Coming Soon
