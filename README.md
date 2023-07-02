@@ -7,7 +7,7 @@
 
 2) Conversion of Human Characters to Ape Society Characters
 
-3) Addition of Weapons and Armour Asssets based on Ape Society IP
+3) Addition of Weapons and Armour Visual and Functional representations based on Ape Society Intellectual Property and Onchain Collectibles
 
 4) Availability of Custom Maps inspired by Ape Society Lore
 
