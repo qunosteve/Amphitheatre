@@ -1,7 +1,7 @@
 # The Ape Society Amphitheatre Module for Mount and Blade 2: Bannerlord
 
 
-## This Module will Encompass 4 Modifications
+## This Module will Encompass 4 Sections
 
 1) Custom Game Mode Logic to accomodate blockchain authenticated loadouts.
 
