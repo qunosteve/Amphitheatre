@@ -7,7 +7,7 @@
 
 2) Conversion of Human Characters to Ape Society Characters
 
-3) Visual and Functional representations of Weapons and Armour based on Ape Society Intellectual Property
+3) Visual and Functional representations of Weapons and Armour based on Ape Society Intellectual Property (Authorized by the DAO)
 
 4) Availability of Custom Maps inspired by Ape Society Lore
 
