@@ -1,0 +1,23 @@
+  <CraftedItem multiplayer_item="true"
+               id="tas_base_sword"
+               name="Ape Society Base Sword"
+               crafting_template="TwoHandedSword"
+               value="1"
+               is_merchandise="false"
+               culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="tas_base_sword_blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="tas_base_sword_guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="tas_base_sword_grip"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="tas_base_sword_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+    <!-- Length: 11000 Weight: 1.87 -->
+  </CraftedItem>
