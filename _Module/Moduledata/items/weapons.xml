@@ -1,23 +1,66 @@
-  <CraftedItem multiplayer_item="true"
-               id="tas_base_sword"
-               name="Ape Society Base Sword"
-               crafting_template="TwoHandedSword"
-               value="1"
-               is_merchandise="false"
-               culture="Culture.neutral_culture">
-    <Pieces>
-      <Piece id="tas_base_sword_blade"
-             Type="Blade"
-             scale_factor="100" />
-      <Piece id="tas_base_sword_guard"
-             Type="Guard"
-             scale_factor="100" />
-      <Piece id="tas_base_sword_grip"
-             Type="Handle"
-             scale_factor="100" />
-      <Piece id="tas_base_sword_pommel"
-             Type="Pommel"
-             scale_factor="100" />
-    </Pieces>
-    <!-- Length: 11000 Weight: 1.87 -->
-  </CraftedItem>
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<Items>
+	  <CraftedItem id="tas_base_sword"
+				   name="{=kaikaikai}Ape Society Base Sword"
+				   crafting_template="tas_TwoHandedSword"
+				   is_merchandise="false">
+		<Pieces>
+		  <Piece id="tas_base_sword_blade"
+				 Type="Blade"
+				 scale_factor="100" />
+		  <Piece id="tas_base_sword_guard"
+				 Type="Guard"
+				 scale_factor="100" />
+		  <Piece id="tas_base_sword_grip"
+				 Type="Handle"
+				 scale_factor="100" />
+		  <Piece id="tas_base_sword_pommel"
+				 Type="Pommel"
+				 scale_factor="100" />
+		</Pieces>
+		<!-- Length: 11000 Weight: 1.87 -->
+	  </CraftedItem>
+	  <CraftedItem id="tas_butchers_oath_majestic"
+				   name="{=kaikaikai}The Butcher's Oath - Majestic"
+				   crafting_template="tas_ThrowingAxe"
+				   is_merchandise="false">
+		<Pieces>
+		  <Piece id="tas_carver_cleaver_blade_majestic"
+				 Type="Blade"
+				 scale_factor="100" />
+		  <Piece id="tas_carver_cleaver_handle"
+				 Type="Handle"
+				 scale_factor="100" />
+		</Pieces>
+		<!-- Length: 11000 Weight: 1.87 -->
+	  </CraftedItem>
+	  	  <CraftedItem id="tas_butchers_oath_supreme"
+				   name="{=kaikaikai}The Butcher's Oath - Supreme"
+				   crafting_template="tas_ThrowingAxe"
+				   is_merchandise="false">
+		<Pieces>
+		  <Piece id="tas_carver_cleaver_blade_supreme"
+				 Type="Blade"
+				 scale_factor="100" />
+		  <Piece id="tas_carver_cleaver_handle"
+				 Type="Handle"
+				 scale_factor="100" />
+		</Pieces>
+		<!-- Length: 11000 Weight: 1.87 -->
+	  </CraftedItem>
+  	  <CraftedItem id="tas_base_spear"
+				   name="{=kaikaikai}Ape Society Base Spear"
+				   crafting_template="tas_ThrowingSpear"
+				   is_merchandise="false">
+		<Pieces>
+		  <Piece id="tas_base_spear_blade"
+				 Type="Blade"
+				 scale_factor="100" />
+		  <Piece id="tas_base_spear_handle"
+				 Type="Handle"
+				 scale_factor="100" />
+		</Pieces>
+		<!-- Length: 11000 Weight: 1.87 -->
+	  </CraftedItem>
+	  
+	</Items>
