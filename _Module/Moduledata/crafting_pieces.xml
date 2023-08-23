@@ -1,130 +1,157 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CraftingPieces>
-  <!-- Base Ape Society Weapon Pieces Start -->
-  <!-- Ape Society Base Sword Pieces Start -->
- <CraftingPiece id="tas_base_sword_blade"
-                 name="Ape Society Base Sword Blade"
-                 tier="1"
-                 piece_type="Blade"
-                 mesh="tas_base_sword_blade"
-                 length="89.48"
-                 weight="1.5">
-    <BladeData stack_amount="1"
-               physics_material="metal_weapon"
-               body_name="bo_sword_one_handed"
-               holster_mesh="vlandian_blade_5_scabbard_5">
-      <Thrust damage_type="Pierce"
-              damage_factor="1.2" />
-      <Swing damage_type="Cut"
-             damage_factor="2.0" />
-    </BladeData>
-  </CraftingPiece>
-  <CraftingPiece id="tas_base_sword_guard"
-                 name="Ape Society Base Sword Guard"
-                 tier="1"
-                 piece_type="Guard"
-                 mesh="tas_base_sword_guard"
-                 length="5.14"
-                 weight="0.4">
-  </CraftingPiece>
-  <CraftingPiece id="tas_base_sword_grip"
-                 name="Ape Society Base Sword Grip"
-                 tier="1"
-                 piece_type="Handle"
-                 mesh="tas_base_sword_grip"
-                 length="23.87"
-                 weight="0.8"
-                 item_holster_pos_shift="0,0,0">
-	 <BuildData piece_offset="-4"/>
-  </CraftingPiece>
-  <CraftingPiece id="tas_base_sword_pommel"
-                 name="Ape Society Base Sword Pommel"
-                 tier="1"
-                 piece_type="Pommel"
-                 mesh="tas_base_sword_pommel"
-                 length="7"
-                 weight="0.24">
-  </CraftingPiece>
-  <!-- Ape Society Base Sword Pieces End -->
-  <!-- Ape Society Base Spear Pieces Start -->
-  <CraftingPiece id="tas_base_spear_blade"
-               name="Ape Society Base Spear Blade"
-               tier="1"
-               piece_type="Blade"
-               mesh="tas_base_spear_blade"
-               length="30.72"
-               weight="0.4"
-               excluded_item_usage_features="swing">
-    <BladeData stack_amount="3"
-               physics_material="wood_weapon"
-               body_name="bo_spear_b"
-               holster_mesh="throwing_spear_quiver_4_1"
-               holster_body_name="bo_throwing_spear_quiver_4_1">
-      <Thrust damage_type="Pierce"
-              damage_factor="1.5" />
-    </BladeData>
-  </CraftingPiece>
-  <CraftingPiece id="tas_base_spear_handle"
-               name="Ape Society Base Spear Handle"
-               tier="1"
-               piece_type="Handle"
-               mesh="tas_base_spear_handle"
-               length="186.96"
-               weight="0.85"
-               item_holster_pos_shift="0,0,0"
-               excluded_item_usage_features="long">
-    <BuildData piece_offset="25" />
-  </CraftingPiece>
-  <!-- Ape Society Base Spear Pieces End -->
-  
-  <!-- Base Ape Society Weapon Pieces End -->
+	  <!-- Base Ape Society Weapon Pieces Start -->
+	  <!-- Ape Society Base Sword Pieces Start -->
+	 <CraftingPiece id="tas_base_sword_blade"
+					 name="{=kaikaikai}Ape Society Base Sword Blade"
+					 tier="1"
+					 piece_type="Blade"
+					 mesh="tas_base_sword_blade"
+					 length="89.48"
+					 weight="1.5">
+		<BladeData stack_amount="1"
+				   physics_material="metal_weapon"
+				   body_name="bo_sword_one_handed"
+				   holster_mesh="vlandian_blade_5_scabbard_5">
+		  <Thrust damage_type="Pierce"
+				  damage_factor="1.2" />
+		  <Swing damage_type="Cut"
+				 damage_factor="1" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <CraftingPiece id="tas_base_sword_guard"
+					 name="{=YQLEkXb7}Ape Society Base Sword Guard"
+					 tier="1"
+					 piece_type="Guard"
+					 mesh="tas_base_sword_guard"
+					 length="5.14"
+					 weight="0.4">
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <CraftingPiece id="tas_base_sword_grip"
+					 name="{=qZYeu55z}Ape Society Base Sword Grip"
+					 tier="1"
+					 piece_type="Handle"
+					 mesh="tas_base_sword_grip"
+					 length="23.87"
+					 weight="0.8"
+					 item_holster_pos_shift="0,0,0">
+		 <BuildData piece_offset="-4"/>
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <CraftingPiece id="tas_base_sword_pommel"
+					 name="{=bfE00BnK}Ape Society Base Sword Pommel"
+					 tier="1"
+					 piece_type="Pommel"
+					 mesh="tas_base_sword_pommel"
+					 length="7"
+					 weight="0.24">
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <!-- Ape Society Base Sword Pieces End -->
+	  <!-- Ape Society Base Spear Pieces Start -->
+	  <CraftingPiece id="tas_base_spear_blade"
+				   name="{=kaikaikai}Ape Society Base Spear Blade"
+				   tier="1"
+				   piece_type="Blade"
+				   mesh="tas_base_spear_blade"
+				   length="30.72"
+				   weight="0.4"
+				   excluded_item_usage_features="swing">
+		<BladeData stack_amount="3"
+				   physics_material="wood_weapon"
+				   body_name="bo_spear_b"
+				   holster_mesh="throwing_spear_quiver_4_1"
+				   holster_body_name="bo_throwing_spear_quiver_4_1">
+		  <Thrust damage_type="Pierce"
+				  damage_factor="1" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <CraftingPiece id="tas_base_spear_handle"
+				   name="{=qZYeu55z}Ape Society Base Spear Handle"
+				   tier="1"
+				   piece_type="Handle"
+				   mesh="tas_base_spear_handle"
+				   length="186.96"
+				   weight="0.85"
+				   item_holster_pos_shift="0,0,0"
+				   excluded_item_usage_features="long">
+		<BuildData piece_offset="25" />
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <!-- Ape Society Base Spear Pieces End -->
+	  
+	  <!-- Base Ape Society Weapon Pieces End -->
 
-  <!--  Ape Society Blueprinted Pieces Start -->
-  
-  <!--  The Butcher's Oath Pieces Start -->
-  <CraftingPiece id="tas_carver_cleaver_blade_majestic"
-               name="The Butcher's Oath Majestic Blade "
-               tier="5"
-               piece_type="Blade"
-               mesh="tas_carver_cleaver_blade"
-               length="33.31"
-               weight="1.1"
-               full_scale="true"
-               excluded_item_usage_features="thrust">
-    <BladeData stack_amount="3"
-               physics_material="metal_weapon"
-               body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut"
-             damage_factor="4" />
-    </BladeData>
-  </CraftingPiece>
-  <CraftingPiece id="tas_carver_cleaver_blade_supreme"
-             name="The Butcher's Oath Supreme Blade "
-             tier="6"
-             piece_type="Blade"
-             mesh="tas_carver_cleaver_blade"
-             length="33.31"
-             weight="1.0"
-             full_scale="true"
-             excluded_item_usage_features="thrust">
-    <BladeData stack_amount="3"
-               physics_material="metal_weapon"
-               body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut"
-             damage_factor="5" />
-    </BladeData>
-  </CraftingPiece>
-    <CraftingPiece id="tas_carver_cleaver_handle"
-                 name="The Butcher's Oath Handle"
-                 tier="5"
-                 piece_type="Handle"
-                 mesh="tas_carver_cleaver_grip"
-                 length="19.5"
-                 weight="0.4"
-                 excluded_item_usage_features="thrust">
-    <BuildData piece_offset="0"/>
-  </CraftingPiece>
-  <!--  The Butcher's Oath Pieces End -->
-  <!--  Ape Society Blueprinted Pieces End -->
+	  <!--  Ape Society Blueprinted Pieces Start -->
+	  
+	  <!--  The Butcher's Oath Pieces Start -->
+	  <CraftingPiece id="tas_carver_cleaver_blade_majestic"
+				   name="{=kaikaikai}The Butcher's Oath Majestic Blade "
+				   tier="5"
+				   piece_type="Blade"
+				   mesh="tas_carver_cleaver_blade"
+				   length="33.31"
+				   weight="1.1"
+				   full_scale="true"
+				   excluded_item_usage_features="thrust">
+		<BladeData stack_amount="3"
+				   physics_material="metal_weapon"
+				   body_name="bo_axe_longer_b">
+		  <Swing damage_type="Cut"
+				 damage_factor="4.2" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <CraftingPiece id="tas_carver_cleaver_blade_supreme"
+				 name="{=kaikaikai}The Butcher's Oath Supreme Blade "
+				 tier="6"
+				 piece_type="Blade"
+				 mesh="tas_carver_cleaver_blade"
+				 length="33.31"
+				 weight="1.1"
+				 full_scale="true"
+				 excluded_item_usage_features="thrust">
+		<BladeData stack_amount="3"
+				   physics_material="metal_weapon"
+				   body_name="bo_axe_longer_b">
+		  <Swing damage_type="Cut"
+				 damage_factor="5.8" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+		<CraftingPiece id="tas_carver_cleaver_handle"
+					 name="{=qZYeu55z}The Butcher's Oath Handle"
+					 tier="5"
+					 piece_type="Handle"
+					 mesh="tas_carver_cleaver_grip"
+					 length="19.5"
+					 weight="0.4"
+					 excluded_item_usage_features="thrust">
+		<BuildData piece_offset="0"/>
+		<Materials>
+			<Material id="Iron2" count="1" />
+		</Materials>
+	  </CraftingPiece>
+	  <!--  The Butcher's Oath Pieces End -->
+	  <!--  Ape Society Blueprinted Pieces End -->
 </CraftingPieces>
   

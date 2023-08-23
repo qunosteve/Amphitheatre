@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+<string id="str_crafting_template.tas_TwoHandedSword" text="{=*}Two Handed Sword"/>
+<string id="str_crafting_template.tas_OneHandedAxe" text="{=*}One Handed Axe"/>
+<string id="str_crafting_template.tas_ThrowingAxe" text="{=*}Throwable Axe"/>
+<string id="str_crafting_template.tas_ThrowingSpear" text="{=*}Throwable Spear"/>
+<string id="str_weapon_usage.tas_TwoHandedSword" text="{=t78atYqH}Two Handed" />
+<string id="str_weapon_usage.tas_OneHandedSword" text="{=*}One Handed"/>
+<string id="str_weapon_usage.tas_OneHandedAxe" text="{=t78atYqH}One Handed" />
+<string id="str_weapon_usage.tas_ThrowingAxe" text="{=t78atYqH}Throwing" />
+<string id="str_weapon_usage.tas_OneHandedPolearm" text="{=t78atYqH}One Handed" />
+<string id="str_weapon_usage.tas_TwoHandedPolearm" text="{=t78atYqH}Two Handed" />
+<string id="str_weapon_usage.tas_Polearm_Thrown" text="{=t78atYqH}Throwable" />
+<string id="str_weapon_usage.tas_TwoHandedPolearm_Couchable" text="{=t78atYqH}Couchable" />
+</strings>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- multiplier:            Captain only: This number is multiplied with the BotsPerFormation setting to get the final amount of troops to spawn. -->
+<!-- cost:                  Skirmish only: The gold cost of this troop. -->
+<!-- armor:                 This armor value is applied to every body part, regardless of equipment. -->
+<!-- movement_speed:        Goes from 0.0 to 1.0. This will be multiplied with 'bipedal_speed_multiplier' (in native_parameters.xml).        Human only. -->
+<!-- combat_movement_speed: Goes from 0.0 to 1.0. This will be multiplied with 'movement_speed' during combat.    Human only. -->
+<!-- acceleration:          Goes from 0.0 to 1.0. This will be multiplied with 'bipedal_acceleration_multiplier'. Human only. -->
+<!-- hitpoints:             Goes from 1 to infinity. Default is 100. Human only. -->
+<MPClassDivisions>
+<MPClassDivision id="tas_butcher"
+                   hero="tas_butcher"
+                   troop="tas_butcher"
+                   hero_idle_anim="act_vlandia_mp_peasant_levy_idle"
+                   troop_idle_anim="act_vlandia_mp_peasant_levy_idle"
+                   multiplier="0.92"
+                   cost="75"
+                   icon="Special_Axeman"
+                   melee_ai="30"
+                   ranged_ai="30"
+                   movement_speed="0.82"
+                   combat_movement_speed="0.9"
+				   armor="0"
+                   acceleration="1.8">
+     <Perks>
+      <Perk game_mode="all"
+            name="{=}None"
+            description="{=}None."
+            icon="PerkToughness"
+            perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+   <MPClassDivision id="tas_recruit"
+                   hero="tas_recruit"
+                   troop="tas_recruit"
+                   hero_idle_anim="act_empire_mp_recruit_idle"
+                   troop_idle_anim="act_empire_mp_recruit_idle"
+                   multiplier="0.64"
+                   cost="100"
+                   icon="Infantry_Light"
+                   melee_ai="30"
+                   ranged_ai="30"
+                   movement_speed="0.82"
+                   combat_movement_speed="0.82"
+				   armor="5"
+                   acceleration="2.3">
+    <Perks>
+      <Perk game_mode="all"
+            name="{=}None"
+            description="{=}None."
+            icon="PerkToughness"
+            perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+  <MPClassDivision id="tas_swordsman"
+                   hero="tas_swordsman"
+                   troop="tas_swordsman"
+                   hero_idle_anim="act_vlandia_mp_voulgier_swordperk_idle"
+                   troop_idle_anim="act_vlandia_mp_voulgier_swordperk_idle"
+                   multiplier="0.64"
+                   cost="125"
+                   icon="Special_Falxman"
+                   melee_ai="100"
+                   ranged_ai="20"
+                   movement_speed="0.82"
+                   combat_movement_speed="0.82"
+				   armor="15"
+                   acceleration="2.3">
+    <Perks>
+      <Perk game_mode="all"
+            name="{=}None"
+            description="{=}None."
+            icon="PerkToughness"
+            perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+    <MPClassDivision id="tas_ranger"
+                   hero="tas_ranger"
+                   troop="tas_ranger"
+                   hero_idle_anim="act_empire_mp_archer_militia_idle"
+                   troop_idle_anim="act_empire_mp_archer_militia_idle"
+                   multiplier="0.68"
+                   cost="150"
+                   icon="Archer_Light"
+                   melee_ai="20"
+                   ranged_ai="80"
+                   movement_speed="0.8"
+                   combat_movement_speed="0.8"
+				   armor="15"
+                   acceleration="3.0">
+	<Perks>
+      <Perk game_mode="all"
+            name="{=}None"
+            description="{=}None."
+            icon="PerkToughness"
+            perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+  <MPClassDivision id="tas_infantry"
+                   hero="tas_infantry"
+                   troop="tas_infantry"
+                   hero_idle_anim="act_khuzait_mp_spear_infantry_idle"
+                   troop_idle_anim="act_khuzait_mp_spear_infantry_idle"
+                   multiplier="0.64"
+                   cost="175"
+                   icon="Infantry_Heavy"
+                   melee_ai="100"
+                   ranged_ai="40"
+                   movement_speed="0.8"
+                   combat_movement_speed="0.8"
+				   armor="30"
+                   acceleration="2.3">
+    <Perks>
+      <Perk game_mode="all"
+            name="{=}None"
+            description="{=}None."
+            icon="PerkToughness"
+            perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+  <MPClassDivision id="tas_cavalry"
+                   hero="tas_cavalry"
+                   troop="tas_cavalry"
+                   hero_mount_idle_anim="act_vlandia_mp_vanguard_mount_idle"
+                   troop_mount_idle_anim="act_vlandia_mp_vanguard_mount_idle"
+                   multiplier="0.46"
+                   cost="200"
+                   icon="Cavalry_Light"
+                   melee_ai="100"
+                   ranged_ai="40"
+                   movement_speed="0.77"
+                   combat_movement_speed="0.77"
+				   armor="30"
+                   acceleration="2.8">
+     <Perks>
+      <Perk game_mode="all"
+            name="{=}None"
+            description="{=}None."
+            icon="PerkToughness"
+            perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+  </MPClassDivisions>
