@@ -15,7 +15,7 @@
 
 ## How to Contribute
 
-To help incentivize designers, artists, 3d modelers, and developers, we offer "bounties" to build out different aspects of the module. By completing bounties, developers can earn various Cardano native tokens that can be used in the Ape Society ecosystem. The communication and requirements for these bounties are coordinated via discord. Come Join our Discord @ https://discord.gg/pMZJH4nkhF
+To help incentivize designers, artists, 3d modelers, and developers, we offer "bounties" to build out different aspects of the module. By completing bounties, developers can earn various native tokens that can be used in the Ape Society ecosystem. The communication and requirements for these bounties are coordinated via discord. Come Join our Discord @ https://discord.gg/pMZJH4nkhF
 
 To learn about our Bounty Structure, read this Gitbook page: https://theapesociety.gitbook.io/digest/the-ape-society-digest/community-projects/amphitheatre/bounty-structure
 
@@ -27,7 +27,7 @@ Coming Soon
 
 ## Elucidation: Ape Society Intellectual Property vs In-Game Items 
 
-The ownership of "The Ape Society" assets and intellectual property consists of a distributed group of owners who collectively own a set of virtual apes with unique characteristics and attributes. These apes are part of a larger digital ecosystem where ownership and transactions are recorded on a blockchain, ensuring transparency and security. Through a DAO vote authenticated by the Cardano blockchain, the owners of The Ape Society have permitted the developers of the Amphitheatre to utilize the Intellectual Property (IP) associated with these virtual apes for use in a custom module in Mount and Blade 2: Bannerlord.
+The ownership of "The Ape Society" assets and intellectual property consists of a distributed group of owners who collectively own a set of virtual apes with unique characteristics and attributes. These apes are part of a larger digital ecosystem where ownership and transactions are recorded on a blockchain, ensuring transparency and security. Through a DAO vote authenticated by the blockchain, the owners of The Ape Society have permitted the developers of the Amphitheatre to utilize the Intellectual Property (IP) associated with these virtual apes for use in a custom module in Mount and Blade 2: Bannerlord.
 
 The Bannerlord Module developed for the Amphitheatre's primary purpose is to authenticate the IP of Ape Society assets for use in competitive matches. It leverages blockchain technology to verify and validate the ownership of apes and their associated gear. By tokenizing the ownership of apes and gear, each player is granted authorization to use the IP associated with a particular ape.
 
